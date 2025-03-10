@@ -59,11 +59,11 @@ FDP is a collaboration between leading institutions in fusion energy and computa
 - **Hewlett Packard Enterprise (HPE)** - Provides metadata management and workflow tracking via CMF.
 - **SapientAI LLC** - Develops **fusion-specific data curation tools** and AI models.
 
-📌 [Learn more about FDP partners](#)
+
 
 ## Demonstration Workflows
 
-To showcase its capabilities, FDP is supporting **three high-impact demonstrations**:
+To showcase its capabilities, FDP is supporting multiple high-impact demonstrations:
 
 1. **Gyrokinetic Simulation Workflow**
    - Develops **physics-informed AI models** for **plasma turbulence** prediction.
@@ -77,7 +77,7 @@ To showcase its capabilities, FDP is supporting **three high-impact demonstratio
    - Implements **AI-driven real-time control algorithms** to prevent plasma disruptions.
    - Leverages **Lyapunov-based machine learning methods** for certification.
 
-📌 [Read more about FDP Demonstrations](#)
+
 
 ## Get Involved
 
