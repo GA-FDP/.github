@@ -1,4 +1,4 @@
-![FDP Main Logo](FDP%20Main%20Logo.png)
+![FDP Main Logo](images/FDP_main_logo.png)
 
 # Welcome to the Fusion Data Platform
 
@@ -11,6 +11,9 @@ FDP is being developed as a **federated resource**, allowing collective usage of
 FDP is built upon a **modern, federated infrastructure** integrating key tools and technologies for data management, processing, and AI/ML model development. The core technologies include:
 
 ### **Open Science Data Federation (OSDF)**
+
+![OSG Map](images/OSG_map.png)
+
 - Provides **distributed data access** across multiple fusion research facilities.
 - Enables large-scale data storage and retrieval with **low-latency caching mechanisms**.
 - Proven technology from **High Energy Physics (HEP)** and **LIGO**.
@@ -18,6 +21,9 @@ FDP is built upon a **modern, federated infrastructure** integrating key tools a
 📌 [Learn more about OSDF](https://osg-htc.org/services/osdf.html)  
 
 ### **Common Metadata Framework (CMF)**
+
+![CMF ML Workflow](images/cmf_workflow.png)
+
 - Implements **integrated distributed version control** for **data, metadata, and code**.
 - Ensures full **provenance tracking**, making workflows reproducible and auditable.
 - Built by **Hewlett Packard Enterprise (HPE)** to enable **scalable scientific data management**.
