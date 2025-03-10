@@ -4,6 +4,10 @@
 
 The **Fusion Data Platform (FDP)** is a cutting-edge **machine learning and data science platform** designed to support the design and safe operation of a **Fusion Pilot Plant (FPP)**. FDP enables researchers and data scientists to develop high-quality, reproducible AI/ML workflows using fusion data from both experiments and simulations.
 
+FDP allows users to create and search end-to-end AI/ML workflows for fusion data analysis, following the **Common Metadata Framework (CMF)** for reproducibility. **TokSearch** provides indexed access to multimodal fusion data, which is then processed on an integrated platform through alignment, normalization, and labeling. ML/AI models—including classifiers, regressors, clusterizers, and anomaly detectors—analyze the curated data to generate **predictions, analytical outputs, and metamodels**, helping researchers optimize plasma performance and improve fusion device control strategies.
+
+![Overall FDP workflow](images/fdp_overall_workflow.png)
+
 FDP is being developed as a **federated resource**, allowing collective usage of distributed computational facilities and enabling advanced AI/ML modeling techniques to tackle critical fusion science challenges. The platform adheres to **FAIR principles** (Findable, Accessible, Interoperable, and Reusable), ensuring that fusion data and models are easily discoverable and reusable by the scientific community.
 
 ## Core Technologies and Tools
