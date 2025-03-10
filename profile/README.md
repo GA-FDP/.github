@@ -1,4 +1,4 @@
-![FDP Main Logo](FDP Main Logo.png)
+![FDP Main Logo](FDP%20Main%20Logo.png)
 
 # Welcome to the Fusion Data Platform
 
@@ -6,7 +6,7 @@ The **Fusion Data Platform (FDP)** is a cutting-edge **machine learning and data
 
 FDP is being developed as a **federated resource**, allowing collective usage of distributed computational facilities and enabling advanced AI/ML modeling techniques to tackle critical fusion science challenges. The platform adheres to **FAIR principles** (Findable, Accessible, Interoperable, and Reusable), ensuring that fusion data and models are easily discoverable and reusable by the scientific community.
 
-## Core Technologies
+## Core Technologies and Tools
 
 FDP is built upon a **modern, federated infrastructure** integrating key tools and technologies for data management, processing, and AI/ML model development. The core technologies include:
 
@@ -15,30 +15,37 @@ FDP is built upon a **modern, federated infrastructure** integrating key tools a
 - Enables large-scale data storage and retrieval with **low-latency caching mechanisms**.
 - Proven technology from **High Energy Physics (HEP)** and **LIGO**.
 
-📌 [Learn more about OSDF](#)  
+📌 [Learn more about OSDF](https://osg-htc.org/services/osdf.html)  
 
 ### **Common Metadata Framework (CMF)**
 - Implements **integrated distributed version control** for **data, metadata, and code**.
 - Ensures full **provenance tracking**, making workflows reproducible and auditable.
 - Built by **Hewlett Packard Enterprise (HPE)** to enable **scalable scientific data management**.
 
-📌 [Learn more about CMF](#)
+📌 [Learn more about CMF](https://hewlettpackard.github.io/cmf/)
 
 ### **TokSearch**
-- A **high-performance search engine** optimized for fusion experimental data.
+- A **high-performance data processing framework** optimized for fusion.
 - Provides **parallelized** data retrieval and processing for large-scale AI/ML workflows.
 - Developed by **General Atomics** to handle DIII-D data efficiently.
 
 📌 [Learn more about TokSearch](https://ga-fdp.github.io/toksearch/latest/)
 
+### **SapientAI Visual Labeling Tool**
+- A **fusion-specific visual labeling interface** designed to assist in semi-supervised learning.
+- Allows domain experts to **quickly label large datasets** for AI/ML model training.
+- Integrates **automated labeling suggestions** using **semi-supervised learning (SSL)** techniques.
+- Supports **time-series, 2D, and 3D fusion diagnostic data**.
+- Fully integrated with **TokSearch** for efficient retrieval of fusion data for labeling.
 
+📌 [Learn more about the SapientAI Visual Labeling Tool](#)
 
-## Key Partners and Collaborators
+## Partners and Collaborators
 
 FDP is a collaboration between leading institutions in fusion energy and computational science:
 
-- **General Atomics (GA)** - Lead institution, specializing in **fusion data management** and **AI/ML applications**.
-- **University of California, San Diego (UCSD)** - Leads **data federation infrastructure** and high-performance computing integration.
+- **General Atomics (GA)** - Lead institution, providing expertise in **fusion data management** and **AI/ML applications for fusion**.
+- **University of California, San Diego (UCSD) and San Diego Supercomuter Center** - Leads **data federation infrastructure** and high-performance computing integration.
 - **Hewlett Packard Enterprise (HPE)** - Provides metadata management and workflow tracking via CMF.
 - **SapientAI LLC** - Develops **fusion-specific data curation tools** and AI models.
 
