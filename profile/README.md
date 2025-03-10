@@ -1,4 +1,4 @@
-
+![FDP Main Logo](FDP Main Logo.png)
 
 # Welcome to the Fusion Data Platform
 
