@@ -2,7 +2,7 @@
 
 Welcome to the Fusion Data Platform (FDP).  
 
-If you have an interest in using the FDP, sign up for support at https://forms.gle/n7oCj2Kj4gFPADmZ9 .
+If you have an interest in using the FDP, sign up for support at https://forms.office.com/g/wEaBDGqqq8 .
 
 The main interface to the data is via the toksearch software, available at https://github.com/GA-FDP/toksearch and documented at https://ga-fdp.github.io/toksearch/latest/ .
 
